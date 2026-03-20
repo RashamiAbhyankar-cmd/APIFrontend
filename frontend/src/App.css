@@ -38,13 +38,25 @@
 }
 
 .form-input {
-  border: 2px solid #333; /* Customize your border here */
+  border: 2px solid #333333; /* Customize your border here */
   padding: 5px;
   border-radius: 4px;
   width: 100%;
   box-sizing: border-box; /* Ensures padding doesn't affect width */
   margin-bottom: 10px;
+  background-color: aqua;
 }
+
+.form-input2 {
+  border: 2px solid #333333; /* Customize your border here */
+  padding: 5px;
+  border-radius: 4px;
+  width: 100%;
+  box-sizing: border-box; /* Ensures padding doesn't affect width */
+  margin-bottom: 10px;
+  background-color:burlywood;
+}
+
 .recipe-list {
   width: 95%; 
   background-color: bisque;
